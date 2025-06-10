@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishal38
-- 🌱 I’m currently learning Data Analytics
-- 📫 How to reach me @ muhammedmishalpk1@.com
+- 🌱  Data Analytics Inter
+- 📫 How to reach me @ muhammedmishalpk1@gmail.com
 - ⚡ Fun fact: experience non, but eager to get experience
 
 <!---
